@@ -1,4 +1,4 @@
-# Portfolio Emi B.
+# Acerca de mi.
 
 Mi nombre es Emiliano Bellomo, trabajo en el medio audiovisual desde hace más de 15 años y actualmente me estoy formando en programación, cursando el trayecto de programador en el Centro de Formación Profesional 20 de la Ciudad de Buenos Aires.
 
